@@ -1,0 +1,86 @@
+{
+  "id": "3733784",
+  "name": "Mywaimai",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "630095",
+      "name": "向左箭头",
+      "font_class": "xiangzuojiantou",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "9851590",
+      "name": "服务",
+      "font_class": "fuwu",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "778902",
+      "name": "手机号码图标",
+      "font_class": "icon_mobile",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "783452",
+      "name": "积分",
+      "font_class": "icon",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "1684790",
+      "name": "箭头1",
+      "font_class": "jiantou",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "8288816",
+      "name": "VIP",
+      "font_class": "VIP",
+      "unicode": "e83d",
+      "unicode_decimal": 59453
+    },
+    {
+      "icon_id": "10304973",
+      "name": "order",
+      "font_class": "order",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "5049821",
+      "name": "icon-search",
+      "font_class": "icon-search",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "13123466",
+      "name": "icon-dingdan",
+      "font_class": "icon-dingdan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "13123472",
+      "name": "icon-geren",
+      "font_class": "icon-geren",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "13124057",
+      "name": "icon-waimai",
+      "font_class": "icon-waimai",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    }
+  ]
+}
